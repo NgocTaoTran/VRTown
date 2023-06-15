@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ee48b87bde494310bf48e125a6be58d, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  modelConfig:
+    ModelMale:
+      m_AssetGUID: 6468ca2e9a058cd4ab33213b0d554c50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ModelFemale:
+      m_AssetGUID: 918ba53bd393849de826b370de72b7ec
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    CharacterSkins:
+    - ID: male
+      Reference:
+        m_AssetGUID: 6468ca2e9a058cd4ab33213b0d554c50
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - ID: female
+      Reference:
+        m_AssetGUID: 4cb91c1f99dbbbe46b08856881bd3e78
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - ID: anime
+      Reference:
+        m_AssetGUID: 918ba53bd393849de826b370de72b7ec
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+  inputConfig:
+    InputAction: {fileID: -944628639613478452, guid: ca4aca0e401b542fd9ccd43af279bb7f, type: 3}

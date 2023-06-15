@@ -1,0 +1,7 @@
+function GetDefines() return {"LiveScreen"} end
+
+LiveScreen = {Width = 1280, Height = 720, BitRate = 800, Orientation = 1}
+
+function LiveScreen:GetScreenID() return 'Screen_BenThanh' end
+function LiveScreen:GetPassword() return '1234' end
+function LiveScreen:GetTarget() return 'LiveScreen' end

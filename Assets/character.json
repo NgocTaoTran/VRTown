@@ -1,0 +1,1792 @@
+{
+    "male": {
+        "head": {
+            "beard": [
+                {
+                    "id": 1,
+                    "path": "Male/M_FacialHair/Beard1.glb",
+                    "name": "Beard1",
+                    "category": "head",
+                    "type": "beard",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_FacialHair/Beard2.glb",
+                    "name": "Beard2",
+                    "category": "head",
+                    "type": "beard",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_FacialHair/Beard3.glb",
+                    "name": "Beard3",
+                    "category": "head",
+                    "type": "beard",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_FacialHair/Beard4.glb",
+                    "name": "Beard4",
+                    "category": "head",
+                    "type": "beard",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_FacialHair/Beard5.glb",
+                    "name": "Beard5",
+                    "category": "head",
+                    "type": "beard",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_FacialHair/Beard6.glb",
+                    "name": "Beard6",
+                    "category": "head",
+                    "type": "beard",
+                    "isTicked": false
+                }
+            ],
+            "hair": [
+                {
+                    "id": 1,
+                    "path": "Male/M_Hair/MaleHair1.glb",
+                    "name": "Hair1",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_Hair/MaleHair2.glb",
+                    "name": "Hair2",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_Hair/MaleHair3.glb",
+                    "name": "Hair3",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_Hair/MaleHair4.glb",
+                    "name": "Hair4",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_Hair/MaleHair5.glb",
+                    "name": "Hair5",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_Hair/MaleHair6.glb",
+                    "name": "Hair6",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                }
+            ]
+        },
+        "top": {
+            "top": [
+                {
+                    "id": 1,
+                    "path": "Male/M_UpperBody/T-Shirt1.glb",
+                    "name": "TShirt1",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_UpperBody/T-Shirt2.glb",
+                    "name": "TShirt2",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_UpperBody/T-Shirt3.glb",
+                    "name": "TShirt3",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_UpperBody/T-Shirt4.glb",
+                    "name": "TShirt4",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_UpperBody/T-Shirt5.glb",
+                    "name": "TShirt5",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_UpperBody/T-Shirt6.glb",
+                    "name": "TShirt6",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Male/M_UpperBody/T-Shirt7.glb",
+                    "name": "TShirt7",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Male/M_UpperBody/T-Shirt8.glb",
+                    "name": "TShirt8",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Male/M_UpperBody/T-Shirt9.glb",
+                    "name": "TShirt9",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Male/M_UpperBody/T-Shirt10.glb",
+                    "name": "TShirt10",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Male/M_UpperBody/T-Shirt11.glb",
+                    "name": "TShirt11",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Male/M_UpperBody/T-Shirt12.glb",
+                    "name": "TShirt12",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Male/M_UpperBody/T-Shirt13.glb",
+                    "name": "TShirt13",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Male/M_UpperBody/T-Shirt14.glb",
+                    "name": "TShirt14",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Male/M_UpperBody/T-Shirt15.glb",
+                    "name": "TShirt15",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Male/M_UpperBody/T-Shirt16.glb",
+                    "name": "TShirt16",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Male/M_UpperBody/T-Shirt17.glb",
+                    "name": "TShirt17",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                }
+            ]
+        },
+        "bottom": {
+            "bottom": [
+                {
+                    "id": 1,
+                    "path": "Male/M_LowerBody/Pants1.glb",
+                    "name": "Pants1",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_LowerBody/Pants2.glb",
+                    "name": "Pants2",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_LowerBody/Pants3.glb",
+                    "name": "Pants3",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_LowerBody/Pants4.glb",
+                    "name": "Pants4",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_LowerBody/Pants5.glb",
+                    "name": "Pants5",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_LowerBody/Pants6.glb",
+                    "name": "Pants6",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Male/M_LowerBody/Pants7.glb",
+                    "name": "Pants7",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Male/M_LowerBody/Pants8.glb",
+                    "name": "Pants8",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Male/M_LowerBody/Pants9.glb",
+                    "name": "Pants9",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Male/M_LowerBody/Pants10.glb",
+                    "name": "Pants10",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Male/M_LowerBody/Pants11.glb",
+                    "name": "Pants11",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Male/M_LowerBody/Pants12.glb",
+                    "name": "Pants12",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Male/M_LowerBody/Pants13.glb",
+                    "name": "Pants13",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Male/M_LowerBody/Pants14.glb",
+                    "name": "Pants14",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Male/M_LowerBody/Pants15.glb",
+                    "name": "Pants15",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Male/M_LowerBody/Pants16.glb",
+                    "name": "Pants16",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Male/M_LowerBody/Pants17.glb",
+                    "name": "Pants17",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                }
+            ]
+        },
+        "shoe": {
+            "shoe": [
+                {
+                    "id": 1,
+                    "path": "Male/M_Foot/Shoes1.glb",
+                    "name": "Shoes1",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_Foot/Shoes2.glb",
+                    "name": "Shoes2",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_Foot/Shoes3.glb",
+                    "name": "Shoes3",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_Foot/Shoes4.glb",
+                    "name": "Shoes4",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_Foot/Shoes5.glb",
+                    "name": "Shoes5",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_Foot/Shoes6.glb",
+                    "name": "Shoes6",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Male/M_Foot/Shoes7.glb",
+                    "name": "Shoes7",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Male/M_Foot/Shoes8.glb",
+                    "name": "Shoes8",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Male/M_Foot/Shoes9.glb",
+                    "name": "Shoes9",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Male/M_Foot/Shoes10.glb",
+                    "name": "Shoes10",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Male/M_Foot/Shoes11.glb",
+                    "name": "Shoes11",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Male/M_Foot/Shoes12.glb",
+                    "name": "Shoes12",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Male/M_Foot/Shoes13.glb",
+                    "name": "Shoes13",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Male/M_Foot/Shoes14.glb",
+                    "name": "Shoes14",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Male/M_Foot/Shoes15.glb",
+                    "name": "Shoes15",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Male/M_Foot/Shoes16.glb",
+                    "name": "Shoes16",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Male/M_Foot/Shoes17.glb",
+                    "name": "Shoes17",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                }
+            ]
+        },
+        "accessories": {
+            "glasses": [
+                {
+                    "id": 1,
+                    "path": "Male/M_Glasses/Glasses1.glb",
+                    "name": "Glasses1",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_Glasses/Glasses2.glb",
+                    "name": "Glasses2",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_Glasses/Glasses3.glb",
+                    "name": "Glasses3",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_Glasses/Glasses4.glb",
+                    "name": "Glasses4",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_Glasses/Glasses5.glb",
+                    "name": "Glasses5",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_Glasses/Glasses6.glb",
+                    "name": "Glasses6",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Male/M_Glasses/Glasses7.glb",
+                    "name": "Glasses7",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Male/M_Glasses/Glasses8.glb",
+                    "name": "Glasses8",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Male/M_Glasses/Glasses9.glb",
+                    "name": "Glasses9",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Male/M_Glasses/Glasses10.glb",
+                    "name": "Glasses10",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                }
+            ],
+            "hat": [
+                {
+                    "id": 1,
+                    "path": "Male/M_Hats/Hat1.glb",
+                    "name": "Hat1",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Male/M_Hats/Hat2.glb",
+                    "name": "Hat2",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Male/M_Hats/Hat3.glb",
+                    "name": "Hat3",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Male/M_Hats/Hat4.glb",
+                    "name": "Hat4",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Male/M_Hats/Hat5.glb",
+                    "name": "Hat5",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Male/M_Hats/Hat6.glb",
+                    "name": "Hat6",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Male/M_Hats/Hat7.glb",
+                    "name": "Hat7",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Male/M_Hats/Hat8.glb",
+                    "name": "Hat8",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Male/M_Hats/Hat9.glb",
+                    "name": "Hat9",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Male/M_Hats/Hat10.glb",
+                    "name": "Hat10",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Male/M_Hats/Hat11.glb",
+                    "name": "Hat11",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Male/M_Hats/Hat12.glb",
+                    "name": "Hat12",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Male/M_Hats/Hat13.glb",
+                    "name": "Hat13",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Male/M_Hats/Hat14.glb",
+                    "name": "Hat14",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Male/M_Hats/Hat15.glb",
+                    "name": "Hat15",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Male/M_Hats/Hat16.glb",
+                    "name": "Hat16",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Male/M_Hats/Hat17.glb",
+                    "name": "Hat17",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 18,
+                    "path": "Male/M_Hats/Hat18.glb",
+                    "name": "Hat18",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 19,
+                    "path": "Male/M_Hats/Hat19.glb",
+                    "name": "Hat19",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 20,
+                    "path": "Male/M_Hats/Hat20.glb",
+                    "name": "Hat20",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 21,
+                    "path": "Male/M_Hats/Hat21.glb",
+                    "name": "Hat21",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 22,
+                    "path": "Male/M_Hats/Hat22.glb",
+                    "name": "Hat22",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 23,
+                    "path": "Male/M_Hats/Hat23.glb",
+                    "name": "Hat23",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 24,
+                    "path": "Male/M_Hats/Hat24.glb",
+                    "name": "Hat24",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 25,
+                    "path": "Male/M_Hats/Hat25.glb",
+                    "name": "Hat25",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 26,
+                    "path": "Male/M_Hats/Hat26.glb",
+                    "name": "Hat26",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 27,
+                    "path": "Male/M_Hats/Hat27.glb",
+                    "name": "Hat27",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 28,
+                    "path": "Male/M_Hats/Hat28.glb",
+                    "name": "Hat28",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 29,
+                    "path": "Male/M_Hats/Hat29.glb",
+                    "name": "Hat29",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 30,
+                    "path": "Male/M_Hats/Hat30.glb",
+                    "name": "Hat30",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 31,
+                    "path": "Male/M_Hats/Hat31.glb",
+                    "name": "Hat31",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 32,
+                    "path": "Male/M_Hats/Hat32.glb",
+                    "name": "Hat32",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 33,
+                    "path": "Male/M_Hats/Hat33.glb",
+                    "name": "Hat33",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 34,
+                    "path": "Male/M_Hats/Hat34.glb",
+                    "name": "Hat34",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 35,
+                    "path": "Male/M_Hats/Hat35.glb",
+                    "name": "Hat35",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 36,
+                    "path": "Male/M_Hats/Hat36.glb",
+                    "name": "Hat36",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 37,
+                    "path": "Male/M_Hats/Hat37.glb",
+                    "name": "Hat37",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 38,
+                    "path": "Male/M_Hats/Hat38.glb",
+                    "name": "Hat38",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 39,
+                    "path": "Male/M_Hats/Hat39.glb",
+                    "name": "Hat39",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 40,
+                    "path": "Male/M_Hats/Hat40.glb",
+                    "name": "Hat40",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                }
+            ],
+            "bag": [
+                {
+                    "id": 1,
+                    "path": "Male/M_Bags/Bag1.glb",
+                    "name": "Bag1",
+                    "category": "accessories",
+                    "type": "bag",
+                    "isTicked": false
+                }
+            ]
+        }
+    },
+    "female": {
+        "head": {
+            "hair": [
+                {
+                    "id": 1,
+                    "path": "Female/M_Hair/FemaleHair1.glb",
+                    "name": "Hair1",
+                    "category": "head",
+                    "type": "hair",
+                    "isTicked": false
+                }
+            ]
+        },
+        "top": {
+            "top": [
+                {
+                    "id": 1,
+                    "path": "Female/M_UpperBody/T-Shirt1.glb",
+                    "name": "TShirt1",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Female/M_UpperBody/T-Shirt2.glb",
+                    "name": "TShirt2",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Female/M_UpperBody/T-Shirt3.glb",
+                    "name": "TShirt3",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Female/M_UpperBody/T-Shirt4.glb",
+                    "name": "TShirt4",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Female/M_UpperBody/T-Shirt5.glb",
+                    "name": "TShirt5",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Female/M_UpperBody/T-Shirt6.glb",
+                    "name": "TShirt6",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Female/M_UpperBody/T-Shirt7.glb",
+                    "name": "TShirt7",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Female/M_UpperBody/T-Shirt8.glb",
+                    "name": "TShirt8",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Female/M_UpperBody/T-Shirt9.glb",
+                    "name": "TShirt9",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Female/M_UpperBody/T-Shirt10.glb",
+                    "name": "TShirt10",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Female/M_UpperBody/T-Shirt11.glb",
+                    "name": "TShirt11",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Female/M_UpperBody/T-Shirt12.glb",
+                    "name": "TShirt12",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Female/M_UpperBody/T-Shirt13.glb",
+                    "name": "TShirt13",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Female/M_UpperBody/T-Shirt14.glb",
+                    "name": "TShirt14",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Female/M_UpperBody/T-Shirt15.glb",
+                    "name": "TShirt15",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Female/M_UpperBody/T-Shirt16.glb",
+                    "name": "TShirt16",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Female/M_UpperBody/T-Shirt17.glb",
+                    "name": "TShirt17",
+                    "category": "top",
+                    "type": "top",
+                    "isTicked": false
+                }
+            ]
+        },
+        "bottom": {
+            "bottom": [
+                {
+                    "id": 1,
+                    "path": "Female/M_LowerBody/Pants1.glb",
+                    "name": "Pants1",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Female/M_LowerBody/Pants2.glb",
+                    "name": "Pants2",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Female/M_LowerBody/Pants3.glb",
+                    "name": "Pants3",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Female/M_LowerBody/Pants4.glb",
+                    "name": "Pants4",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Female/M_LowerBody/Pants5.glb",
+                    "name": "Pants5",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Female/M_LowerBody/Pants6.glb",
+                    "name": "Pants6",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Female/M_LowerBody/Pants7.glb",
+                    "name": "Pants7",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Female/M_LowerBody/Pants8.glb",
+                    "name": "Pants8",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Female/M_LowerBody/Pants9.glb",
+                    "name": "Pants9",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Female/M_LowerBody/Pants10.glb",
+                    "name": "Pants10",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Female/M_LowerBody/Pants11.glb",
+                    "name": "Pants11",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Female/M_LowerBody/Pants12.glb",
+                    "name": "Pants12",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Female/M_LowerBody/Pants13.glb",
+                    "name": "Pants13",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Female/M_LowerBody/Pants14.glb",
+                    "name": "Pants14",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Female/M_LowerBody/Pants15.glb",
+                    "name": "Pants15",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Female/M_LowerBody/Pants16.glb",
+                    "name": "Pants16",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Female/M_LowerBody/Pants17.glb",
+                    "name": "Pants17",
+                    "category": "bottom",
+                    "type": "bottom",
+                    "isTicked": false
+                }
+            ]
+        },
+        "shoe": {
+            "shoe": [
+                {
+                    "id": 1,
+                    "path": "Female/M_Foot/Shoes1.glb",
+                    "name": "Shoes1",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Female/M_Foot/Shoes2.glb",
+                    "name": "Shoes2",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Female/M_Foot/Shoes3.glb",
+                    "name": "Shoes3",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Female/M_Foot/Shoes4.glb",
+                    "name": "Shoes4",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Female/M_Foot/Shoes5.glb",
+                    "name": "Shoes5",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Female/M_Foot/Shoes6.glb",
+                    "name": "Shoes6",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Female/M_Foot/Shoes7.glb",
+                    "name": "Shoes7",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Female/M_Foot/Shoes8.glb",
+                    "name": "Shoes8",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Female/M_Foot/Shoes9.glb",
+                    "name": "Shoes9",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Female/M_Foot/Shoes10.glb",
+                    "name": "Shoes10",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Female/M_Foot/Shoes11.glb",
+                    "name": "Shoes11",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Female/M_Foot/Shoes12.glb",
+                    "name": "Shoes12",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Female/M_Foot/Shoes13.glb",
+                    "name": "Shoes13",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Female/M_Foot/Shoes14.glb",
+                    "name": "Shoes14",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Female/M_Foot/Shoes15.glb",
+                    "name": "Shoes15",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Female/M_Foot/Shoes16.glb",
+                    "name": "Shoes16",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Female/M_Foot/Shoes17.glb",
+                    "name": "Shoes17",
+                    "category": "shoe",
+                    "type": "shoe",
+                    "isTicked": false
+                }
+            ]
+        },
+        "accessories": {
+            "glasses": [
+                {
+                    "id": 1,
+                    "path": "Female/M_Glasses/Glasses1.glb",
+                    "name": "Glasses1",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Female/M_Glasses/Glasses2.glb",
+                    "name": "Glasses2",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Female/M_Glasses/Glasses3.glb",
+                    "name": "Glasses3",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Female/M_Glasses/Glasses4.glb",
+                    "name": "Glasses4",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Female/M_Glasses/Glasses5.glb",
+                    "name": "Glasses5",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Female/M_Glasses/Glasses6.glb",
+                    "name": "Glasses6",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Female/M_Glasses/Glasses7.glb",
+                    "name": "Glasses7",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Female/M_Glasses/Glasses8.glb",
+                    "name": "Glasses8",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Female/M_Glasses/Glasses9.glb",
+                    "name": "Glasses9",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Female/M_Glasses/Glasses10.glb",
+                    "name": "Glasses10",
+                    "category": "accessories",
+                    "type": "glasses",
+                    "isTicked": false
+                }
+            ],
+            "hat": [
+                {
+                    "id": 1,
+                    "path": "Female/M_Hats/Hat1.glb",
+                    "name": "Hat1",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 2,
+                    "path": "Female/M_Hats/Hat2.glb",
+                    "name": "Hat2",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 3,
+                    "path": "Female/M_Hats/Hat3.glb",
+                    "name": "Hat3",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 4,
+                    "path": "Female/M_Hats/Hat4.glb",
+                    "name": "Hat4",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 5,
+                    "path": "Female/M_Hats/Hat5.glb",
+                    "name": "Hat5",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 6,
+                    "path": "Female/M_Hats/Hat6.glb",
+                    "name": "Hat6",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 7,
+                    "path": "Female/M_Hats/Hat7.glb",
+                    "name": "Hat7",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 8,
+                    "path": "Female/M_Hats/Hat8.glb",
+                    "name": "Hat8",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 9,
+                    "path": "Female/M_Hats/Hat9.glb",
+                    "name": "Hat9",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 10,
+                    "path": "Female/M_Hats/Hat10.glb",
+                    "name": "Hat10",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 11,
+                    "path": "Female/M_Hats/Hat11.glb",
+                    "name": "Hat11",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 12,
+                    "path": "Female/M_Hats/Hat12.glb",
+                    "name": "Hat12",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 13,
+                    "path": "Female/M_Hats/Hat13.glb",
+                    "name": "Hat13",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 14,
+                    "path": "Female/M_Hats/Hat14.glb",
+                    "name": "Hat14",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 15,
+                    "path": "Female/M_Hats/Hat15.glb",
+                    "name": "Hat15",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 16,
+                    "path": "Female/M_Hats/Hat16.glb",
+                    "name": "Hat16",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 17,
+                    "path": "Female/M_Hats/Hat17.glb",
+                    "name": "Hat17",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 18,
+                    "path": "Female/M_Hats/Hat18.glb",
+                    "name": "Hat18",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 19,
+                    "path": "Female/M_Hats/Hat19.glb",
+                    "name": "Hat19",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 20,
+                    "path": "Female/M_Hats/Hat20.glb",
+                    "name": "Hat20",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 21,
+                    "path": "Female/M_Hats/Hat21.glb",
+                    "name": "Hat21",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 22,
+                    "path": "Female/M_Hats/Hat22.glb",
+                    "name": "Hat22",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 23,
+                    "path": "Female/M_Hats/Hat23.glb",
+                    "name": "Hat23",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 24,
+                    "path": "Female/M_Hats/Hat24.glb",
+                    "name": "Hat24",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 25,
+                    "path": "Female/M_Hats/Hat25.glb",
+                    "name": "Hat25",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 26,
+                    "path": "Female/M_Hats/Hat26.glb",
+                    "name": "Hat26",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 27,
+                    "path": "Female/M_Hats/Hat27.glb",
+                    "name": "Hat27",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 28,
+                    "path": "Female/M_Hats/Hat28.glb",
+                    "name": "Hat28",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 29,
+                    "path": "Female/M_Hats/Hat29.glb",
+                    "name": "Hat29",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 30,
+                    "path": "Female/M_Hats/Hat30.glb",
+                    "name": "Hat30",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 31,
+                    "path": "Female/M_Hats/Hat31.glb",
+                    "name": "Hat31",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 32,
+                    "path": "Female/M_Hats/Hat32.glb",
+                    "name": "Hat32",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 33,
+                    "path": "Female/M_Hats/Hat33.glb",
+                    "name": "Hat33",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 34,
+                    "path": "Female/M_Hats/Hat34.glb",
+                    "name": "Hat34",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 35,
+                    "path": "Female/M_Hats/Hat35.glb",
+                    "name": "Hat35",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 36,
+                    "path": "Female/M_Hats/Hat36.glb",
+                    "name": "Hat36",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 37,
+                    "path": "Female/M_Hats/Hat37.glb",
+                    "name": "Hat37",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 38,
+                    "path": "Female/M_Hats/Hat38.glb",
+                    "name": "Hat38",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 39,
+                    "path": "Female/M_Hats/Hat39.glb",
+                    "name": "Hat39",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                },
+                {
+                    "id": 40,
+                    "path": "Female/M_Hats/Hat40.glb",
+                    "name": "Hat40",
+                    "category": "accessories",
+                    "type": "hat",
+                    "isTicked": false
+                }
+            ],
+            "bag": [
+                {
+                    "id": 1,
+                    "path": "Female/M_Bags/Bag1.glb",
+                    "name": "Bag1",
+                    "category": "accessories",
+                    "type": "bag",
+                    "isTicked": false
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local
+  m_EditorClassIdentifier: 
+  m_GroupName: Local
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 64f318be5afca45dbae6c5cdada6b163
+  m_SerializeEntries:
+  - m_GUID: 9e5f43a5932614d4c99f14fdf7394df4
+    m_Address: Models
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 250580686da4e428ea03a45c3e1e604c
+    m_Address: "Assets/VRTown/Bundles/Local/Modles/Characters/\u30D5\u30A9\u30F3.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3483ac98efd1041fd965491335249ff7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 20f745a6faae746e6935c94f7cc406ab, type: 2}
+    - {fileID: 11400000, guid: 30a9e4e43957f4b07b0a674e1e734476, type: 2}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78e1f02830ea144c4b3663ebcee24ec5, type: 3}
+  m_Name: Image 5
+  m_EditorClassIdentifier: 
+  Title: "2006\u5E74 \u30AA\u30D5\u30A3\u30B9\u6539\u88C5"
+  Message: "\u3088\u308A\u30AF\u30EA\u30A8\u30A4\u30C6\u30A3\u30D6\u306A\u4ED5\u4E8B\u3092\u76EE\u6307\u3059\u3079\u304F\u3001\u30AA\u30D5\u30A3\u30B9\u3092\u6539\u88C5\u3002\u7D4C\u55B6\u7406\u5FF5\u3092\u8C61\u5FB4\u3059\u308B\u300C\u30AA\u30FC\u30AC\u30CB\u30C3\u30AF\u30E9\u30A4\u30F3\u300D\u3082\u3053\u306E\u3068\u304D\u8A95\u751F\u3057\u307E\u3057\u305F\u3002"
+  URL: https://s3.ap-southeast-1.amazonaws.com/cdn.vrtown.io/resources/sunloft_image_compress/h_006.jpg

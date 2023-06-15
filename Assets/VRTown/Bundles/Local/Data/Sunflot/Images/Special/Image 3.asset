@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78e1f02830ea144c4b3663ebcee24ec5, type: 3}
+  m_Name: Image 3
+  m_EditorClassIdentifier: 
+  Title: "1999\u5E74 \u300C\u30AD\u30C3\u30BA\u30AC\u30FC\u30C7\u30F3\u300D\u767A\u8868\u4F1A\u958B\u50AC"
+  Message: "\u5B50\u3069\u3082\u306E\u30D1\u30BD\u30B3\u30F3\u30B9\u30AF\u30FC\u30EB\u300C\u30AD\u30C3\u30BA\u30AC\u30FC\u30C7\u30F3\u300D\u3067\u6BCE\u5E74\u6052\u4F8B\u3060\u3063\u305F\u767A\u8868\u4F1A\u3002\uFF2F\uFF22\u304C\u793E\u54E1\u3084\u304A\u5BA2\u69D8\u3068\u306A\u308A\u3001\u95A2\u4FC2\u6027\u306F\u7D9A\u3044\u3066\u3044\u307E\u3059\u3002"
+  URL: https://s3.ap-southeast-1.amazonaws.com/cdn.vrtown.io/resources/sunloft_image_compress/h_004.jpg

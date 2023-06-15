@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78e1f02830ea144c4b3663ebcee24ec5, type: 3}
+  m_Name: Image 13
+  m_EditorClassIdentifier: 
+  Title: "2014\u5E74 Rikkeisoft\u304C\u30D1\u30FC\u30C8\u30CA\u30FC\u4F01\u696D\u306B"
+  Message: "\u30D9\u30C8\u30CA\u30E0\u306EIT\u4F01\u696DRikkeisoft\u793E\u3068\u63D0\u643A\u3002\u4EE5\u6765\u305A\u3063\u3068\u30B7\u30B9\u30C6\u30E0\u958B\u767A\u306E\u5FDC\u63F4\u3092\u3057\u3066\u3044\u305F\u3060\u3044\u3066\u304A\u308A\u307E\u3059\u3002"
+  URL: https://s3.ap-southeast-1.amazonaws.com/cdn.vrtown.io/resources/sunloft_image_compress/h_014.jpg

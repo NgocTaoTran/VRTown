@@ -1,0 +1,71 @@
+[General]
+ios_app_id = com.game.matchtriple3d
+ios_bundle_id = com.game.matchtriple3d
+android_package_name = unknown
+enable_fps_counter = true
+fps_update_interval = 0.5
+
+[Leaderboard]
+GPGS_debug = true
+GPGS_leaderboard_ids = empty
+
+[Ad]
+ios_banner_ad_id = ca-app-pub-4738062221647171/9971548468
+ios_interstitial_ad_id = ca-app-pub-4738062221647171/9334351699
+ios_rewarded_ad_id = ca-app-pub-4738062221647171/7415869016
+ios_open_ad_id = ca-app-pub-3940256099942544/3419835294
+android_banner_ad_id = ca-app-pub-4738062221647171/9971548468
+android_interstitial_ad_id = ca-app-pub-4738062221647171/9334351699
+android_rewarded_ad_id = ca-app-pub-4738062221647171/7415869016
+android_open_ad_id = ca-app-pub-3940256099942544/3419835294
+enable_admob_mediation = false
+use_adaptive_banner = true
+enable_padding_banner = true
+ios_app_pause_on_background = false
+test_devices = 
+ios_hide_banner_ad_when_app_paused = false
+ios_hide_banner_ad_when_app_low_perf = false
+interstitial_interval = 20
+
+[MAX]
+MAX_SDK_key = unknown
+MAX_ios_banner_ad_id = unknown
+MAX_ios_interstitial_ad_id = unknown
+MAX_android_banner_ad_id = unknown
+MAX_android_interstitial_ad_id = unknown
+MAX_show_mediation_debugger = false
+
+[RemoteConfigs]
+auto_run_first_fetch = true
+duration_cache_expired = 3600
+duration_retry_next_fetch = 600
+
+[Analytics]
+duration_session_timeout = 1800
+fb_app_id = unknown
+
+[AppsFlyer]
+ios_dev_key = 
+android_dev_key = 
+track_enabled = true
+
+[Adjust]
+sandbox = false
+log_level = 3
+ios_app_token = 
+android_app_token = 
+; Names are seperated by commas
+event_names = click_ad;click_banner_ad;click_interstitial_ad;complete_rewarded_ads;finish_10th_games;finish_3rd_game;finish_5th_games;finish_tutorial;loyal_users;show_ad;show_banner;show_interstitial
+; Tokens are seperated by commas
+ios_event_tokens = 
+android_event_tokens = 
+
+[Flurry]
+using_flurry = true
+ios_api_key = 
+android_api_key = 
+
+[PerformanceMonitor]
+trace_enabled = false
+monitor_interstitial_ad_load = false
+monitor_rewarded_ad_load = false

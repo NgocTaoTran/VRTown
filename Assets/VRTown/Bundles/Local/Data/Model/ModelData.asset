@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720ab4b5529e049389f4757077786f96, type: 3}
+  m_Name: ModelData
+  m_EditorClassIdentifier: 
+  models:
+    ListModel:
+    - ID: DuongHoa
+      Position: {x: 1453, y: -0.72, z: 1656}
+      Rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1561
+        width: 314
+        height: 213
+    - ID: IceLand
+      Position: {x: 1287.54, y: 0.4, z: 1658.5841}
+      Rect:
+        serializedVersion: 2
+        x: 1278.644
+        y: 1646.123
+        width: 29.892
+        height: 28.828
+    - ID: ExhibitionZone
+      Position: {x: 1293.3, y: 0.4, z: 1689.8}
+      Rect:
+        serializedVersion: 2
+        x: 1287.46
+        y: 1674.867
+        width: 21.872
+        height: 30.433
